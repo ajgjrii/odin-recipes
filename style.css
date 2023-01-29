@@ -4,6 +4,15 @@ body {
 
 p, h1,h2, h3,h4, ul, ol {
     color: silver;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+img {
+    border-radius: 10px;
+    max-width: 500px;
+    margin-right: 100px;
+    margin-left: 50px;
 }
 
 a {
