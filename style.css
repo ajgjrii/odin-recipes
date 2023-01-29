@@ -1,17 +1,20 @@
 body {
-    background-color: darkblue;
-}
-
-p, h1,h2, h3,h4, ul, ol {
+    background-color: #0d0933;
     color: silver;
     margin-left: 100px;
     margin-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: rgba(0, 0, 255, 0.531);
+    border-radius: 15px;
+    text-align: center;
 }
 
 img {
     border-radius: 10px;
     max-width: 500px;
-    margin-right: 100px;
     margin-left: 50px;
 }
 
